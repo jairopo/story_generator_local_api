@@ -12,6 +12,6 @@
 
 2. Accedemos mediante la terminal al directorio del repositorio, donde crearemos un entorno virtual de python.
 
-   ![Creción entorno virtual](env_terminal.png)
+   ![Creción entorno virtual](images/env_terminal.png)
    
 
