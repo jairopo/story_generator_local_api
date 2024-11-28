@@ -7,6 +7,7 @@
    * AIDC-AI/Marco-o1
    * nvidia/Hymba-1.5B-Instruct
    * Qwen/Qwen2.5-1.5B-Instruct
-  
+
+  ![Modelos descargados](images/modelos.png)
    
 
