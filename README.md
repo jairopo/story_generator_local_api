@@ -9,11 +9,7 @@
    
    ![Modelos descargados](images/models.png)
 
-2. Accedemos mediante la terminal al directorio del repositorio, donde crearemos un entorno virtual de python.
-
-   ![Creación entorno virtual](images/env_terminal.png)
-
-3. Pasamos a text-generation-webui, donde haremos una primera prueba de los modelos.
+2. Pasamos a text-generation-webui, donde haremos una primera prueba de los modelos.
    
    Pedimos una historia donde el personaje principal es un profesor, el secundario un alumno, tiene lugar en una piscina y la acción es comer.
 
@@ -25,5 +21,17 @@
 
    ![Mistral story](images/mistral_story.png)
 
-4.  
+3. Accedemos mediante la terminal al directorio del repositorio, donde crearemos un entorno virtual de python.
+
+   ![Creación entorno virtual](images/env_terminal.png)
+
+4.  Continuamos en la terminal para ejecutar el programa usando el modelo Qwen en la CPU.
+
+   ![Qwen model api](images/qwen_api.png)
+
+   -------------------------------------------------------------------------------------------------------------------------------------------
+   
+   ![Mistral model api](images/mistral_api.png)
+
+5.  
 
