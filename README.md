@@ -42,7 +42,7 @@
 
    Adicionalmente, también se preguntará por el nivel de creatividad que se busca: bajo medio o alto.
 
-   El código se encuentra en el archivo ![story_generator.py](story_generator.py).
+   El código se encuentra en el archivo [story_generator.py](story_generator.py).
 
 
 
