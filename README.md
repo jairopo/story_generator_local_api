@@ -19,9 +19,9 @@
 
    El primer modelo lo solicitamos con más tokens que el segundo. Recibiendo las siguientes respuestas, respectivamente:
 
-   ![Qwen story](qwen_story.png)
+   ![Qwen story](images/qwen_story.png)
 
-   ![Mistral story](mistral_story.png)
+   ![Mistral story](images/mistral_story.png)
 
 4.  
 
