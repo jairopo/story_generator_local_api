@@ -9,5 +9,9 @@
    * Qwen/Qwen2.5-1.5B-Instruct
 
   ![Modelos descargados](images/models.png)
+
+2. Accedemos mediante la terminal al directorio del repositorio, donde crearemos un entorno virtual de python.
+
+   ![Creción entorno virtual](env_terminal.png)
    
 
