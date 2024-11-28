@@ -28,10 +28,23 @@
 4.  Continuamos en la terminal para ejecutar el programa usando el modelo Qwen en la CPU.
 
    ![Qwen model api](images/qwen_api.png)
-
-   -------------------------------------------------------------------------------------------------------------------------------------------
    
+   ![Qwen model test](images/qwen_api_test.png)
+   
+5. Pasamos a desarrollar el programa que pida los datos, ejecute el modelo mediante la api anteriormente creada y muestre la historia 
+
+   Los datos que pedirá serán:
+
+      > Personaje principal
+      > Personaje secundario
+      > Escenario/Lugar
+      > Acción que debe acontecer
+
+   Adicionalmente, también se preguntará por el nivel de creatividad que se busca: bajo medio o alto.
+
+   El código se encuentra en el archivo ![story_generator.py](story_generator.py).
+
+
+
+7. Cerramos la api del modelo Qwen 
    ![Mistral model api](images/mistral_api.png)
-
-5.  
-
