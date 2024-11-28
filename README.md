@@ -5,7 +5,7 @@
    Comenzamos eligiendo los modelos, vamos a utilizar los siguientes:
 
    * AIDC-AI/Marco-o1
-   * nvidia/Hymba-1.5B-Instruct
+   * EleutherAI/gpt-neo-1.3B
    * Qwen/Qwen2.5-1.5B-Instruct
 
   ![Modelos descargados](images/models.png)
