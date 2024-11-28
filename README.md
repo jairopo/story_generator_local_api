@@ -25,7 +25,7 @@
 
    ![Creación entorno virtual](images/env_terminal.png)
 
-4.  Continuamos en la terminal para ejecutar el programa usando el modelo Qwen en la CPU.
+4. Continuamos en la terminal para ejecutar el programa usando el modelo Qwen en la CPU.
 
    ![Qwen model api](images/qwen_api.png)
    
@@ -47,7 +47,18 @@
 
    El código se encuentra en el archivo [story_generator.py](story_generator.py).
 
+   ![Story generator code](image/story_generator.png)
 
+7. Ejecutamos el código para ver la respuesta de la api con el modelo Qwen
 
-7. Cerramos la api del modelo Qwen 
+   ![Qwen story generated](qwen_story_generated.png)
+
+8. Cerramos la api del modelo Qwen y abrimos la del modelo Mistral
+   
    ![Mistral model api](images/mistral_api.png)
+
+   ![Mistral model test](images/mistral_api_test.png)
+
+9. Ejecutamos de nuevo el código de la misma manera, pero esta vez la url hará referencia al modelo Mistral.
+
+   
