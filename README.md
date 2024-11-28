@@ -47,11 +47,11 @@
 
    El código se encuentra en el archivo [story_generator.py](story_generator.py).
 
-   ![Story generator code](image/story_generator.png)
+   ![Story generator code](images/story_generator.png)
 
 7. Ejecutamos el código para ver la respuesta de la api con el modelo Qwen
 
-   ![Qwen story generated](qwen_story_generated.png)
+   ![Qwen story generated](images/qwen_story_generated.png)
 
 8. Cerramos la api del modelo Qwen y abrimos la del modelo Mistral
    
