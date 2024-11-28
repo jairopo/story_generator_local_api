@@ -4,14 +4,24 @@
 
    Comenzamos eligiendo los modelos, vamos a utilizar los siguientes:
 
-   * AIDC-AI/Marco-o1
-   * EleutherAI/gpt-neo-1.3B
    * Qwen/Qwen2.5-1.5B-Instruct
-
-  ![Modelos descargados](images/models.png)
+   * TheBloke/Mistral-7B-v0.1-GGUF
+   
+   ![Modelos descargados](images/models.png)
 
 2. Accedemos mediante la terminal al directorio del repositorio, donde crearemos un entorno virtual de python.
 
-   ![Creción entorno virtual](images/env_terminal.png)
+   ![Creación entorno virtual](images/env_terminal.png)
+
+3. Pasamos a text-generation-webui, donde haremos una primera prueba de los modelos.
    
+   Pedimos una historia donde el personaje principal es un profesor, el secundario un alumno, tiene lugar en una piscina y la acción es comer.
+
+   El primer modelo lo solicitamos con más tokens que el segundo. Recibiendo las siguientes respuestas, respectivamente:
+
+   ![Qwen story](qwen_story.png)
+
+   ![Mistral story](mistral_story.png)
+
+4.  
 
