@@ -36,8 +36,11 @@
    Los datos que pedirá serán:
 
       > Personaje principal
+      
       > Personaje secundario
+      
       > Escenario/Lugar
+      
       > Acción que debe acontecer
 
    Adicionalmente, también se preguntará por el nivel de creatividad que se busca: bajo medio o alto.
