@@ -49,7 +49,7 @@
 
    ![Story generator code](images/story_generator.png)
 
-   Como se ve en la foto, el import de 'requests' sale subrayado amarillo, eso es porque hay que instalarlo desde la terminal, dentro del env, ejecutando la siguiente línea:
+   Como se ve en la foto, el import de 'requests' sale subrayado amarillo, eso es porque hay que instalarlo desde la terminal, dentro del env, con la siguiente línea:
 
    ![pip install requests](images/requests_installed.png)
 
