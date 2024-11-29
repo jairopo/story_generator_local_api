@@ -49,16 +49,24 @@
 
    ![Story generator code](images/story_generator.png)
 
-7. Ejecutamos el código para ver la respuesta de la api con el modelo Qwen
+7. Ejecutamos el código para ver la respuesta de la api con el modelo Qwen, mostrando un ejemplo por nivel de creatividad.
 
-   ![Qwen story generated](images/qwen_story_generated.png)
+   ![Qwen story generated](images/qwen_story_high.png)
 
-8. Cerramos la api del modelo Qwen y abrimos la del modelo Mistral
+   -------------------------------------------------------------------------------------------------------------------------------------------
+
+   ![Qwen story generated](images/qwen_story_medium.png)
+
+   -------------------------------------------------------------------------------------------------------------------------------------------
+
+   ![Qwen story generated](images/qwen_story_low.png)
+
+9. Cerramos la api del modelo Qwen y abrimos la del modelo Mistral
    
    ![Mistral model api](images/mistral_api.png)
 
    ![Mistral model test](images/mistral_api_test.png)
 
-9. Ejecutamos de nuevo el código de la misma manera, pero esta vez la url hará referencia al modelo Mistral.
+10. Ejecutamos de nuevo el código de la misma manera, pero esta vez la url hará referencia al modelo Mistral.
 
    
