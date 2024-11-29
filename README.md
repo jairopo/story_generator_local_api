@@ -17,7 +17,7 @@
 
    ![Qwen story](images/qwen_story.png)
 
-   --
+   ----------
 
    ![Mistral story](images/mistral_story.png)
 
