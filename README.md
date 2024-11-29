@@ -82,4 +82,8 @@
    ---
 
    ![Mistral story generated](images/mistral_story_low.png)
+
+11. Conclusión.
+
+    A mi parecer, el modelo Qwen trabaja mucho mejor en la creación de historias que el Mistral. Aunque ambos han creado historias creativas, el segundo modelo ha tenido confusiones en varias ocasiones, poniendo texto que no tenía nada que ver o haciendo correlaciones       en la historia un tanto extraña.
    
