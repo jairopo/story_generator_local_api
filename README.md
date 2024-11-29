@@ -1,6 +1,6 @@
 # Generador de historias con API local usando text-generation-webui
 
-1. Selección de modelos
+1. Selección de modelos.
 
    Comenzamos eligiendo los modelos, vamos a utilizar los siguientes:
 
@@ -31,7 +31,7 @@
    
    ![Qwen model test](images/qwen_api_test.png)
    
-5. Pasamos a desarrollar el programa que pida los datos, ejecute el modelo mediante la api anteriormente creada y muestre la historia 
+5. Pasamos a desarrollar el programa que pida los datos, ejecute el modelo mediante la api anteriormente creada y muestre la historia.
 
    Los datos que pedirá serán:
 
