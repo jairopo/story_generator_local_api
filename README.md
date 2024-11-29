@@ -69,4 +69,13 @@
 
 10. Ejecutamos de nuevo el código de la misma manera, pero esta vez la url hará referencia al modelo Mistral.
 
+   ![Mistral story generated](images/mistral_story_high.png)
+
+   ---
+   
+   ![Mistral story generated](images/mistral_story_medium.png)
+
+   ---
+
+   ![Mistral story generated](images/mistral_story_low.png)
    
