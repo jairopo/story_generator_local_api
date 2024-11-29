@@ -1,6 +1,6 @@
 # Generador de historias con API local usando text-generation-webui
 
-Este proyecto se basa en la implementación de una API en local gracias a text-generation-webui, aplicando varios modelos para lograr la creación de historias pidiendo al usuario distintos datos que conformarán la historia.
+Este proyecto se basa en la implementación de una API en local gracias a text-generation-webui, aplicando varios modelos para lograr la creación de historias con unos datos previamente solicitados al usuario. 
 
 1. Selección de modelos.
 
