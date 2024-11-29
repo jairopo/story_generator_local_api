@@ -51,7 +51,7 @@
 
    Como se ve en la foto, el import de 'requests' sale subrayado amarillo, eso es porque hay que instalarlo desde la terminal, dentro del env, ejecutando la siguiente línea:
 
-   ![pip install requests](requests_installed.png)
+   ![pip install requests](images/requests_installed.png)
 
 7. Ejecutamos el código para ver la respuesta de la api con el modelo Qwen, mostrando un ejemplo por nivel de creatividad.
 
