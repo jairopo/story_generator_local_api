@@ -17,7 +17,7 @@
 
    ![Qwen story](images/qwen_story.png)
 
-   ----------
+   ---
 
    ![Mistral story](images/mistral_story.png)
 
@@ -53,11 +53,11 @@
 
    ![Qwen story generated](images/qwen_story_high.png)
 
-   -------------------------------------------------------------------------------------------------------------------------------------------
-
+   ---
+   
    ![Qwen story generated](images/qwen_story_medium.png)
 
-   ------------------------------------------------------------
+   ---
 
    ![Qwen story generated](images/qwen_story_low.png)
 
